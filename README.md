@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a pixel sorter in c++
-<img align="left" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
 <!--
