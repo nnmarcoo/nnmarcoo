@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a pixel sorter in c++
-![](https://komarev.com/ghpvc/?nnmarcoo)
+<img align="left" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
+
+
 <!--
 **nnmarcoo/nnmarcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
