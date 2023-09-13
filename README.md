@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on a pixel sorter in c++
+Hello! 👋
+- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) in C++.
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
