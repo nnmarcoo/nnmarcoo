@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) and a [3D points renderer](https://github.com/nnmarcoo/Render3DPoints) in C++.
+- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) and a [n-dimensional points renderer](https://github.com/nnmarcoo/Render3DPoints) in C++.
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
