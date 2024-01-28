@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) and a [longest path estimation]([https://github.com/nnmarcoo/Render3DPoints](https://github.com/nnmarcoo/.small/tree/main/.c/Euler%20Path)) in C++.
+- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) and a [longest path estimation](https://github.com/nnmarcoo/.small/tree/main/.c/Euler%20Path) in C++.
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
