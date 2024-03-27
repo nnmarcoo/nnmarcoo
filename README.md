@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a [pixel sorter](https://github.com/nnmarcoo/PixelMixer) in C++.
+- 🔭 I'm currently working on a [native image viewer](https://github.com/nnmarcoo/img) in JS and Rust.
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
