@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working with encryption on [boxit](https://github.com/nnmarcoo/boxit) Rust.
+- 🔭 I'm currently working with encryption on [boxit](https://github.com/nnmarcoo/boxit) in Rust.
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
