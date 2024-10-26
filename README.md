@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working with encryption on a new version of [img](https://github.com/nnmarcoo/img).
+- 🔭 I'm currently working on a new version of [img](https://github.com/nnmarcoo/img).
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
