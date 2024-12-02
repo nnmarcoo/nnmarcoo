@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a new version of [img](https://github.com/nnmarcoo/img) and a local music player called [msc](https://github.com/nnmarcoo/msc).
+- 🔭 I'm currently working on a local music player called [msc](https://github.com/nnmarcoo/msc).
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
