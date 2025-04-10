@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a local music player called [msc](https://github.com/nnmarcoo/msc) and a weird image creator called [p2e](https://github.com/nnmarcoo/p2e).
+- 🔭 I'm currently working on a local music player called [msc](https://github.com/nnmarcoo/msc).
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
