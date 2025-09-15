@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a local music player called [msc](https://github.com/nnmarcoo/msc).
+- 🔭 I'm currently working on a route mapping app [routr](https://github.com/nnmarcoo/routr).
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
