@@ -1,5 +1,5 @@
 Hello! 👋
-- 🔭 I'm currently working on a music player called [msc](https://github.com/nnmarcoo/msc).
+- 🔭 I'm currently working on a music player called [suno](https://github.com/nnmarcoo/suno).
   <!--<img align="right" src="https://komarev.com/ghpvc/?username=nnmarcoo&color=037ffc&label=Views">
 
 
